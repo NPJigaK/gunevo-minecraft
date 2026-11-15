@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.1-alpha.1] - 2026-11-15
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Changed
+
+- ハイパー・ハンマーの爆風ダメージ、押し出し、遮蔽判定を改善。
+
+### Fixed
+
+- スーパーナパーム使用時のライフル残弾補充、リロード解除、ADS復帰を修正。
+- 盾・ハイパー・ハンマー・スーパーナパームを続けて使ったときの発動条件と再使用待ちを修正。
+
 ## [0.2.0-alpha.1] - 2026-11-15
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -25,6 +38,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.2.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.1-alpha.1
 [0.2.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.0-alpha.1
 [0.1.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.1.0-alpha.1
 [0.0.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/commit/a14b5e23dbc818517d45a184e77d7aead623245a
