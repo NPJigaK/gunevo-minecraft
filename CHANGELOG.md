@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.3-alpha.1] - 2026-11-16
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Fixed
+
+- 壁の縁をかすめるビーム・ライフルの弾が、射線が通っているのに壁で止まる問題を修正。
+- ハイパー・ハンマーの爆風で押し出された練習用ザクIIが、段差の縁に引っかかる問題を修正。
+
 ## [0.2.2-alpha.3] - 2026-11-15
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -55,6 +64,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.2.3-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.3-alpha.1
 [0.2.2-alpha.3]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.2-alpha.3
 [0.2.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.1-alpha.1
 [0.2.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.0-alpha.1
