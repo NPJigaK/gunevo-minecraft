@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.2.2-alpha.3] - 2026-11-15
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Added
+
+- スーパーナパーム使用時に三人称へ切り替わり、全身の投擲・反動モーションと武器の持ち替えを表示。
+- ハイパー・ハンマーを構えて投げる一人称モーションを追加。
+
+### Changed
+
+- 練習用ザクIIのハイパー・ハンマー被弾後の減速と着地を原作に近づけ、ライフルの命中部位に応じてダメージが変わるように変更。
+
+### Fixed
+
+- 空中でも盾を構え、正面からの攻撃を防げるように修正。
+
 ## [0.2.1-alpha.1] - 2026-11-15
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -38,6 +55,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.2.2-alpha.3]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.2-alpha.3
 [0.2.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.1-alpha.1
 [0.2.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.0-alpha.1
 [0.1.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.1.0-alpha.1
