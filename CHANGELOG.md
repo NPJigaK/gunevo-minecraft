@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0-alpha.1] - 2026-11-21
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Added
+
+- 専用BOT練習場を8区画に拡張しました。動く標的、壁と段差、投擲区画、200ブロックまでの距離目盛りを備え、各区画を歩いて移動できます。
+- 中破したRX-78-2を味方BOTがその場でリペアする救助訓練と、救助が来ない場合の大破訓練を追加しました。
+
+### Changed
+
+- スーパーナパームの地表炎で、盾を下ろした自機が通常の半分のダメージを受けるようになりました。味方は炎のダメージ対象から外れます。
+
 ## [0.3.0-alpha.1] - 2026-11-21
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -92,6 +105,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.4.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.4.0-alpha.1
 [0.3.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.3.0-alpha.1
 [0.2.4-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.4-alpha.1
 [0.2.3-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.3-alpha.1
