@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.0-alpha.1] - 2026-11-21
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Added
+
+- 本人の三人称視点と他のプレイヤーの画面で、RX-78-2の全身の動きと装備の持ち替えを表示します。
+- BOT練習場に、ハイパー・ハンマーで盾を崩してライフルで追撃できる標的を追加しました。練習場で構えたバニラ盾も、ハンマーの直撃で3秒間使えなくなります。
+
+### Changed
+
+- ビーム・ライフルが遠距離の標的にも命中するよう射程と距離減衰を修正し、ADSを保持したままリロードした直後の初弾に照準時の精度を適用しました。
+- ハイパー・ハンマーが床に当たったときの火花と、スーパーナパームの炎・残火の演出を更新しました。
+
 ## [0.2.4-alpha.1] - 2026-11-16
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -78,6 +92,8 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.3.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.3.0-alpha.1
+[0.2.4-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.4-alpha.1
 [0.2.3-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.3-alpha.1
 [0.2.2-alpha.3]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.2-alpha.3
 [0.2.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.1-alpha.1
