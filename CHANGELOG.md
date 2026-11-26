@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.5.4-alpha.1] - 2026-11-26
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Added
+
+- 専用BOT練習場でLANの二人対戦ができるようになりました。赤・青のチームを切り替え、味方が中破したときは救助要請を受けてリペアできます。
+- 敵機・地点を知らせるピンと味方からの返答、ハロの回復設備を追加しました。
+- スーパーナパームの球形の予告と中心マーカーが、投げた本人と敵に見えるようになりました。飛行中の敵の筒はライフルで撃ち落として起爆を防げます。
+- 他の胴装備と組み合わせられる外観用の「RX-78-2 頭部」を追加しました。
+
+### Changed
+
+- 地上・空中での中破、救助後の起き上がりを機体の動きに反映しました。周囲のプレイヤーにもリペアの光と音が届きます。
+- 盾を下ろしてからの反撃、空中ハンマーから着地した後の追撃、ビーム・ライフルの弾道・着弾・被弾方向の表示と音を改善しました。
+
 ## [0.4.0-alpha.1] - 2026-11-21
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -105,6 +121,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.5.4-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.5.4-alpha.1
 [0.4.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.4.0-alpha.1
 [0.3.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.3.0-alpha.1
 [0.2.4-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.2.4-alpha.1
