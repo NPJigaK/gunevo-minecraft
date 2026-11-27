@@ -4,7 +4,7 @@
 
 | Minecraft | ローダー | Java | リリース日 | JAR |
 | --- | --- | --- | --- | --- |
-| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-26 | [0.5.4-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.5.4-alpha.1/gunevo-neoforge-mc1.21.1-0.5.4-alpha.1.jar) |
+| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-28 | [0.7.0-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.7.0-alpha.1/gunevo-neoforge-mc1.21.1-0.7.0-alpha.1.jar) |
 | 1.20.1 | Forge 47.2.18 | 17 | 2023-12-24 | [0.0.1-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/raw/a14b5e23dbc818517d45a184e77d7aead623245a/gunevo-forge-mc1.20.1-0.0.1-alpha.1.jar) |
 
 > [!NOTE]
@@ -15,6 +15,8 @@
 ## NeoForge版で遊べること
 
 専用BOT練習場でRX-78-2を装備し、ブースト移動、ビーム・ライフル、盾、ハイパー・ハンマー、スーパーナパームを使えます。ソロでの訓練に加え、LANでは二人で対戦したり、ピンで位置を知らせて中破した味方をリペアしたりできます。
+
+通常サバイバルの作業台でもRX防具4部位とライフルを作れます。ブーツを履くとステップ・巡航・ホバーが使えます。RX胴とライフルで戦闘でき、ホストとLAN参加者のどちらも同じ条件で盾・ハンマー・ナパームを使えます。中破トーテムを持つと、通常ワールドでも中破したときに他のプレイヤーから救助を受けられます。
 
 <details>
 <summary>Minecraft標準の動作と移植対象外の機能</summary>
