@@ -4,7 +4,7 @@
 
 | Minecraft | ローダー | Java | リリース日 | JAR |
 | --- | --- | --- | --- | --- |
-| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-28 | [0.7.0-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.7.0-alpha.1/gunevo-neoforge-mc1.21.1-0.7.0-alpha.1.jar) |
+| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-28 | [0.8.0-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.8.0-alpha.1/gunevo-neoforge-mc1.21.1-0.8.0-alpha.1.jar) |
 | 1.20.1 | Forge 47.2.18 | 17 | 2023-12-24 | [0.0.1-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/raw/a14b5e23dbc818517d45a184e77d7aead623245a/gunevo-forge-mc1.20.1-0.0.1-alpha.1.jar) |
 
 > [!NOTE]
@@ -15,6 +15,8 @@
 ## NeoForge版で遊べること
 
 専用BOT練習場でRX-78-2を装備し、ブースト移動、ビーム・ライフル、盾、ハイパー・ハンマー、スーパーナパームを使えます。ソロでの訓練に加え、LANでは二人で対戦したり、ピンで位置を知らせて中破した味方をリペアしたりできます。
+
+RX装甲は頭・胴・脚・足ごとにSteveとAlexの体に付きます。着た部位だけが見え、エリトラやMekaSuit胴とも組み合わせられます。ライフルの部位ダメージは標準の防具で軽減され、肩アーマーの張り出しだけを撃っても本体は無傷です。
 
 通常サバイバルの作業台でもRX防具4部位とライフルを作れます。ブーツを履くとステップ・巡航・ホバーが使えます。RX胴とライフルで戦闘でき、ホストとLAN参加者のどちらも同じ条件で盾・ハンマー・ナパームを使えます。中破トーテムを持つと、通常ワールドでも中破したときに他のプレイヤーから救助を受けられます。
 
