@@ -4,7 +4,7 @@
 
 | Minecraft | ローダー | Java | リリース日 | JAR |
 | --- | --- | --- | --- | --- |
-| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-28 | [0.9.1-alpha.3](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.9.1-alpha.3/gunevo-neoforge-mc1.21.1-0.9.1-alpha.3.jar) |
+| 1.21.1 | NeoForge 21.1.265 | 21 | 2026-11-29 | [0.9.2-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/releases/download/v0.9.2-alpha.1/gunevo-neoforge-mc1.21.1-0.9.2-alpha.1.jar) |
 | 1.20.1 | Forge 47.2.18 | 17 | 2023-12-24 | [0.0.1-alpha.1](https://github.com/NPJigaK/gunevo-minecraft/raw/a14b5e23dbc818517d45a184e77d7aead623245a/gunevo-forge-mc1.20.1-0.0.1-alpha.1.jar) |
 
 > [!NOTE]

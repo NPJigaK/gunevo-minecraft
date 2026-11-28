@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.9.2-alpha.1] - 2026-11-29
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Fixed
+
+- 通常ワールドでも、ハイパー・ハンマーの直撃を受けると短時間ひるむようになりました。ひるんでいる間に技のキーを押し続けていれば、必要な装備がそろっているときは、ひるみが解けたあとにハイパー・ハンマーやスーパー・ナパームを使えます。
+- 対人戦が有効な通常ワールドで、別チームの相手がスーパー・ナパームを発動すると、画面に通知が出るようになりました。
+- ガンダムのブーツだけでも、ブーストステップやジャンプ、着地の音が鳴るようになりました。ブーストダッシュやホバリングの音は動作中に続き、動作を終えるかブーツを脱ぐと止まります。
+- ガンダムの防具を着ていなくても、ビーム・ライフルの照準をのぞくと音が鳴るようになりました。
+
 ## [0.9.1-alpha.3] - 2026-11-28
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -194,6 +205,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.9.2-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.9.2-alpha.1
 [0.9.1-alpha.3]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.9.1-alpha.3
 [0.9.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.9.0-alpha.1
 [0.8.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.8.1-alpha.1
