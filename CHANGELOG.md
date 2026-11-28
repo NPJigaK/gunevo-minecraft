@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.9.0-alpha.1] - 2026-11-28
+
+Minecraft 1.21.1／NeoForge 21.1.265／Java 21
+
+### Added
+
+- ガンダムの頭装備でガンダム・シールド、胴装備でハイパー・ハンマーを使えます。ほかの防具と組み合わせても、着けた部位の技を使えます。4部位をそろえると、手に持つ道具を問わずスーパー・ナパームを使えます。
+- ブーストが回復すれば、半ステップとブーストダッシュをつなぐGダッシュを続けて使えます。
+
+### Changed
+
+- 三人称では、スティーブとアレックス自身がブーストステップやブーストダッシュの姿勢を取り、歩きながら盾を構えたり、空中でハイパー・ハンマーを振りかぶって投げたりするようになりました。
+- 一人称で盾を構えたりハンマーを投げたりすると、自分のスキンの腕と袖に、着用中のガンダムの前腕装甲が重なります。左利きでも盾は左手、ハンマーは右手で使い、技が終わるとその手に持っていた道具が戻ります。
+
 ## [0.8.1-alpha.1] - 2026-11-28
 
 Minecraft 1.21.1／NeoForge 21.1.265／Java 21
@@ -160,6 +174,7 @@ Minecraft 1.21.1／NeoForge 21.1.265／Java 21
 
 - Minecraft 1.20.1／Forge 47.2.18／Java 17向けの初回α版JARを配布。
 
+[0.9.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.9.0-alpha.1
 [0.8.1-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.8.1-alpha.1
 [0.8.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.8.0-alpha.1
 [0.7.0-alpha.1]: https://github.com/NPJigaK/gunevo-minecraft/releases/tag/v0.7.0-alpha.1
